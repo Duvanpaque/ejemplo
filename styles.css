@@ -1,0 +1,31 @@
+
+.boton-suscribirse {
+    background-color: red;
+    color: white;
+    border: none;
+    height: 40px;
+    width: 100px;
+    border-radius: 2px;
+    cursor: pointer; 
+    transition: opacity 0.5s;
+    box-shadow: 10px 10px 20px rgb(170,170, 170);
+
+}
+.boton-suscribirse:hover {
+    opacity: 0.8;
+}
+
+.boton-enviar{
+    background-color: white;
+    border-color: rgb(50, 120, 234);
+    height: 37px;
+    width: 65px;
+    border-radius: 2px;
+    border-style: solid;
+    cursor: pointer;
+    color: rgb(50, 120, 234) ;
+} 
+.boton-enviar:hover {
+    background-color: rgb(50, 120, 234);
+    color: white;
+}
